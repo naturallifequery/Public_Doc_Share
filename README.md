@@ -9,15 +9,13 @@ The aim of this repository is simple: share useful, reusable technical material 
 - AI and prompt engineering guides
 - PowerShell scripts and automation documentation
 - Microsoft 365 and Power Platform build guides
-- Infrastructure and endpoint management resources
-- Security, governance and hardening guidance
 - Architecture notes, project plans and technical white papers
 
 ## Document Library
 
 | Document | Category | Description | Version |
 | --- | --- | --- | --- |
-| [Prompts for IT Professionals](./ai/Prompts_for_IT_Professionals_v2.1.pdf) | AI / IT Operations | Evidence-led prompt engineering for helpdesk, endpoint, systems, cloud and automation teams. | 2.1 |
+| [Prompts for IT Professionals](./ai/Prompts_for_IT_Professionals_v2.0.pdf) | AI / IT Operations | Evidence-led prompt engineering for helpdesk, endpoint, systems, cloud and automation teams. | 2.0 |
 
 More documents will be added as projects are completed and updated.
 
